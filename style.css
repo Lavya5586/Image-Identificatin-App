@@ -1,21 +1,13 @@
-body
-{
+body {
     font-family: 'Style Script', cursive;
     background: rebeccapurple;
 }
 
-center
-{
+center {
     font-family: 'Style Script', cursive;
 }
 
-hr
-{
-    font-weight: bold;
-}
-
-.heading 
-{
+.heading {
     margin: 0px;
     width: 100%;
     font-size: 25px;
@@ -25,8 +17,7 @@ hr
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.heading_div
-{
+.heading_div {
     float: none;
     background: rgb(248, 45, 45);
     padding: 10px;
@@ -35,19 +26,16 @@ hr
     box-shadow: 5px 5px 5px grey;
 }
 
-.heading_div2
-{
+.heading_div2 {
     font-size: 18px;
 }
 
-.result_para_tag
-{
+.result_para_tag {
     box-shadow: 5px 5px 5px grey;
     font-size: 20px;
 }
 
-.copy_right_footer
-{
+.copy_right_footer {
     position: fixed;
     color: white;
     bottom: 0;
@@ -58,8 +46,7 @@ hr
     text-align: center;
 }
 
-canvas
-{
+canvas {
     border: 5px solid black;
     border-radius: 20px;
     box-shadow: 5px 5px 5px red;
